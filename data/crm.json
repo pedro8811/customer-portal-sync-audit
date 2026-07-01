@@ -1,0 +1,20 @@
+[ 
+   { 
+ 	"id": 1, 
+ 	"email": "ana@example.com", 
+ 	"status": "Active", 
+ 	"plan": "pro" 
+   }, 
+   { 
+ 	"id": 2, 
+ 	"email": "bruno@example.com", 
+ 	"status": "Suspended", 
+ 	"plan": "basic" 
+   }, 
+   { 
+ 	"id": 3, 
+ 	"email": "felipe@example.com", 
+ 	"status": "Active", 
+ 	"plan": "pro" 
+   } 
+] 
